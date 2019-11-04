@@ -1,0 +1,18 @@
+1. DOG CLASS <br />
+  1.1 Instances of a class: Lab, Boxer, Dachsund
+
+2. ATTRIBUTES of a Dog class <br />
+  2.1 four-legged animal (integer) <br />
+  2.2 black nose (string) <br />
+  2.3 dog type: lab (string) <br />
+  2.4 length of some kind of tail/nub (float) <br />
+  2.5 canine mammal (teeth) (boolean) <br />
+  2.6 humans best friend (boolean) Dog loves owner -true/dog doesnt love owner -false
+
+3. METHODS <br />
+  3.1 changeDogtype: dogtype = "Dachsund" <br />
+  3.2 runs (affects the 4 legs attribute) <br />
+  3.3 wags their tail/back end (determines length from backside to tip of tail 12.5") <br />
+  3.4 loves their owner (if dog loves owner then true dog is humans best friend boolean to true)
+  <br />
+  NOTE - I AM  REALLY LOST ON THIS, I AM LOOKING/READING ABOUT EXAMPLES AND THEN GIVING IT MY BEST GUESS (I understand class, instances, attributes and even methods in the simplest terms but then applying integer, boolean etc. I really struggle with this.

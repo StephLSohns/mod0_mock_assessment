@@ -1,0 +1,7 @@
+<strong>DEFINING DOG CLASS INSTANCES</strong> <br />
+The Class is DOG, 3 instances of this are: Boxer, Dachsund, Lab. <br >
+Defining this in greater detail might look like this: <br >
+dogType: "Dachsund" <br >
+teeth: "Canine" <br >
+tail length: 6.5" <br />
+humans best friend: if dog loves human - true / if dog doesn't love human - false (boolean)
